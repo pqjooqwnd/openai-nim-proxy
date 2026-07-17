@@ -72,7 +72,7 @@ const MODEL_MAPPING = {
   'm3': 'minimaxai/minimax-m3',
   'step-3.5-flash': 'stepfun-ai/step-3.5-flash',
   'step-3.7-flash': 'stepfun-ai/step-3.7-flash'
-  'GLM': 'nvidia/nemotron-3-ultra-550b-a55b'
+  'GLM': 'nvidia/nemotron-3-ultra-550b-a55b',
 };
 
 const FALLBACK_MODELS = [
