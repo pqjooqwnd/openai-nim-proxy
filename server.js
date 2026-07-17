@@ -37,7 +37,7 @@ function validateConfig() {
   
   if (!NIM_API_KEY) fatal('NIM_API_KEY is required. Get one at https://build.nvidia.com/');
   
-  if (!CLIENT_AUTH_KEY) {5814438eb0b0737e1e3a511648331025c93a5c725db5ee9e3abc35cdb20d1d66
+  if (!CLIENT_AUTH_KEY) {5814438eb0b0737e1e3a511648331025c93a5c725db5ee9e3abc35cdb20d1d66}
     console.warn('[WARN] CLIENT_AUTH_KEY not set. All requests will be rejected with 403.');
   }
 }
