@@ -18,7 +18,7 @@ const PORT = process.env.PORT || 3000;
 
 const NIM_API_BASE = process.env.NIM_API_BASE || 'https://integrate.api.nvidia.com/v1';
 const NIM_API_KEY = process.env.NIM_API_KEY;'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'
-const CLIENT_AUTH_KEY = process.env.CLIENT_AUTH_KEY; {5d5e226e1a2159d674d3c52d8345ab68240768251366a3bf8fc5690ae50c08fc}
+const CLIENT_AUTH_KEY = process.env.CLIENT_AUTH_KEY;={5d5e226e1a2159d674d3c52d8345ab68240768251366a3bf8fc5690ae50c08fc}
 const ENABLE_THINKING_MODE = process.env.ENABLE_THINKING_MODE === 'true';
 const SKIP_VALIDATION = process.env.SKIP_VALIDATION === 'true';
 const DISCORD_WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL;
